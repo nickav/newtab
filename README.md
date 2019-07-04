@@ -1,7 +1,7 @@
 # New Tab
 
-A minimalistic new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
+A minimalistic new tab page for Google Chrome. No network requests. No tracking. No bullshit.
 
-### About
+### Screenshots
 
-Nick is a web developer seeking opportunities, beverage socials, and late-night taco runs.
+![New Tab](/assets/icon-128.png)
