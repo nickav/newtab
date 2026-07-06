@@ -6,7 +6,7 @@
     "128": "assets/icon-128.png"
   },
   "description": "A minimalistic black new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.",
-  "version": "1.0",
+  "version": "1.1",
   "incognito": "split",
   "chrome_url_overrides": { "newtab": "newtab.html" },
   "manifest_version": 3,
